@@ -1,1 +1,1 @@
-# QuizApp Hosted Link-[click here to play]()
+# QuizApp-[click here to play](https://namishagurunani.github.io/QuizApp/)
